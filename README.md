@@ -3,6 +3,8 @@
 A ground-up redesign of `contentcreator.com/prompt-edit`, built as a
 direct-response **sales page** with a refined, cinematic dark aesthetic.
 
+**Live demo → https://anietex.github.io/prompt-edit-redesign/**
+
 ## Stack
 
 - **Vue 3** (`<script setup>`) + **TypeScript** — typed throughout, `vue-tsc` clean
